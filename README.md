@@ -1,2 +1,2 @@
 # datascience-project-setup
-An example of setting a reproducible workflow
+What to do if you are given a very large file or several large files that require analysis in a short amount of time? A solution to this is to run jobs in parallel. This can be accomplished using workflow management tools such as Snakemake on a High Performing Cluster (HPC). Equally important, what is the best approach for setting up your analysis, so that it is reproducible?
